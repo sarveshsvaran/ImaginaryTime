@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Custom Scripts\ObjectTimeManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Custom Scripts\PlayerLookMAnager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Custom Scripts\ObjectTimeManager.cs" Line="7" Column="24" />
+      <File FileName="Assets\Scripts\Custom Scripts\AlchemyTable.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Custom Scripts\RigidbodyPickup.js" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>GetComponent&lt;MeshFilter&gt;().sharedMesh</Value>
+          <Value>swordList[currentState].item</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
